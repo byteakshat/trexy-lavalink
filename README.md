@@ -11,5 +11,5 @@ Music bot that uses Lavalink for its audio player.
 - Running the bot `npm start`.
 
 ## Author
-- GitHub [@Allvaa](https://github.com/Allvaa)
-- Discord [allvzx#2840](https://discord.com/users/740075062190669884)
+- GitHub [@byteakshat](https://github.com/byteakshat)
+- Discord [Vex[R]#0001](https://discord.com/users/731420164628676640)
